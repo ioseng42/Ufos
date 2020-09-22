@@ -15,3 +15,4 @@ Building data-driven UI without `Rx`.
 [![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20Linux-lightgrey.svg)](https://github.com/SwifterSwift/swifterSwift)
 
 ![Build Status](https://travis-ci.com/ioseng42/Ufos.svg?branch=master)
+
