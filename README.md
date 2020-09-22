@@ -10,18 +10,19 @@
 
 Building data-driven UI without `Rx`.
 
-Reactive frameworks are great!
-
 *All you need for a reactive UI is an **@Observed property** and an **event broadcaster**.*
 
-That's all this is.
+That's all, folks!
 
 ### Features
 
-* Automatic memory management
-* Strongly typed
 * Access control
+* Automatic memory management
+* `DispatchQueue` support
+* Filtering
 * `Keypath` support
+* Strongly typed
+* Thread safe
 
 ## Where?
 
