@@ -4,15 +4,39 @@
 
 # Ufos
 
-Building data-driven UI without `Rx`.
+µFramework for @Observed Signal.
 
 ## What?
 
-µFramework observed/signal written in Swift.
+Building data-driven UI without `Rx`.
+
+Reactive frameworks are great!
+
+*All you need for a reactive UI is an **@Observed property** and an **event broadcaster**.*
+
+That's all this is.
+
+### Features
+
+* Automatic memory management
+* Strongly typed
+* Access control
+* `Keypath` support
 
 ## Where?
 
-[![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20Linux-lightgrey.svg)](https://github.com/SwifterSwift/swifterSwift)
+Anywhere [![Swift](https://img.shields.io/badge/Swift-5.2-orange.svg)](https://swift.org) runs.
 
-![Build Status](https://travis-ci.com/ioseng42/Ufos.svg?branch=master)
+[![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20Linux-lightgrey.svg)](https://github.com/SwifterSwift/swifterSwift) [![Build Status](https://travis-ci.com/ioseng42/Ufos.svg?branch=master)](https://travis-ci.com/ioseng42/Ufos)
 
+### Installation
+
+[![SPM compatible](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager/)
+
+```
+.package(url: "https://github.com/ioseng42/Ufos.git", from: "1.0.0")
+```
+
+## License
+
+[MIT License](License)
