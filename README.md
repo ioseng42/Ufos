@@ -1,8 +1,4 @@
 <p align="center">
-  <div style="text-align:center"><span style="font-size:3em;">Ufos</span></div>
-</p>
-
-<p align="center">
   <img src="https://freedesignfile.com/upload/2017/08/ufo-icon-vector.png" align="center" height="256" width="256 title="Ufos">
 </p>
 
