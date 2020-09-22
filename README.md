@@ -9,6 +9,8 @@
 
 # Ufos
 
+<!---[![Build Status](https://travis-ci.com/ioseng42/Ufos.svg?branch=master)](https://travis-ci.com/ioseng42/Ufos)--->
+
 Building data-driven UI without `Rx`.
 
 ## What?
